@@ -38,7 +38,7 @@ public class Helper {
                     break;
                 case 2:
                     String firstNameOfAdmin, lastNameOfAdmin, genderOfAdmin,DepartmentOfAdmin;
-                    Double SalaryOfAdmin;
+                    double SalaryOfAdmin;
 
 
                     System.out.println("Entre First Name");
